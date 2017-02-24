@@ -13,7 +13,6 @@ using namespace std;
 card::card(int value, string suit) {
     setValue(value);
     setSuit(suit);
-    
 }
 
 void card::setValue(int v) {

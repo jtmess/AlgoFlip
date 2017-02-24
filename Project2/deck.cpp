@@ -78,16 +78,16 @@ void deck::shuffle() {
         front = d;
     }
 }
-
+/*
 card deck::deal() {
     //return top card from deck and remove it
     node<card> dealt = *front;
-    cout<<dealt;
+    //cout << dealt;
     //return dealt;
+    return card;
 }
-
+*/
 void deck::replace(card) {
-    //put card on bottom of deck
-
+    //card card;
 }
 
